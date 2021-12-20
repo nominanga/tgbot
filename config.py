@@ -1,2 +1,2 @@
-TOKEN = '5075993938:AAFo7fqmpU1NnVaCIq-wjskEZDJu2N4kYWc'
+TOKEN = ''   # Your_token
 days = ['понедельник', 'вторник', 'среда', 'четверг', 'пятница', 'суббота']
